@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <Plugs>
+    <Plug Name="云盘" DLLName="CloudDisk.dll" ClassType="CloudDisk.CloudDisk" />
+  </Plugs>
+</Config>
